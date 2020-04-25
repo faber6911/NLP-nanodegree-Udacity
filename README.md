@@ -1,4 +1,5 @@
-<h1 align="center">Natural Language Processing Nanodegree</h1>
+<br>
+<h1 align="center"><a href = "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892">Natural Language Processing Nanodegree</a></h1>
 <h6 align = "center">provided by</h6>
 <p align="center"><a href="https://www.udacity.com/"><img src="https://raw.githubusercontent.com/faber6911/NLP-nanodegree-Udacity/master/imgs/logo.png" width=10%></a></p>
 
